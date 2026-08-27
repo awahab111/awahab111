@@ -1,19 +1,26 @@
-# Hi, I'm Abdul Wahab 👋
+# Abdul Wahab
 
-Solo developer building and shipping software end to end — from backend services to mobile apps.
+**Software Engineer · Solo Developer**
 
-- 🛠️ Currently building **TenderPK** and a few other products
-- 🌐 Based in Islamabad, Pakistan
-- 💡 Interested in developer tools, product engineering, and turning ideas into shipped apps
-- 📫 Reach me: [github@awahab111](https://github.com/awahab111)
+I design, build, and ship software end to end — backend services, web platforms, and mobile apps. I work independently, taking products from idea to production.
 
-### What I'm working on
-- **TenderPK** — tender/procurement tooling
-- Side projects across web, mobile, and automation
+- 📍 Islamabad, Pakistan
+- 🔭 Currently building [**TenderPK**](https://github.com/awahab111) and a portfolio of product side-projects
+- 🧰 Stack: Go, TypeScript/React, Flutter, PostgreSQL, cloud infra
+- ✉️ [awahab111@users.noreply.github.com](mailto:awahab111@users.noreply.github.com)
 
-### Elsewhere
-- Always happy to talk shop about building solo and shipping fast.
+## Featured Work
+
+| Project | Description |
+| --- | --- |
+| **TenderPK** | Tender & procurement management platform |
+| **Padel SaaS** | White-label court booking & membership platform |
+| **PK Bill Tracker** | Offline-first utility bill tracking (Flutter) |
+
+## Focus
+
+Developer tools, product engineering, and shipping pragmatic software fast. I care about clean architecture, good developer experience, and products people actually pay for.
 
 ---
 
-<sub>Profile README · generated with a little help from Hermes.</sub>
+<sub>Profile README.</sub>
