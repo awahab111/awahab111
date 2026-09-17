@@ -1,17 +1,38 @@
+```text
+  *     .         ⠠⠤⠒⠒⠢⢄     .         *         .      +      .
+     .       ⢀⠤⠒⠊⠉⠉⠁ ⠒⠤⡈⠑⠢⢄     .           .       .
+  +      ⢀⠔⠁ ⢀⠔⠊⠉⠑⢄    ⠑⢄  ⠉⠑⠢⢄      *         .  
+=======⠁====⠋============⠓⠤⠤⠤⠚⠁========⠙⠒⠤⠤⣀=================
+```
+
 # Abdul Wahab
+**AI Engineer & Full-Stack Developer** · Islamabad, PK
 
-**AI Engineer · Full-Stack Developer**
+> Building AI-powered products and resilient backends—from LLM agents and model pipelines to production APIs and cross-platform clients.
 
-I build AI-powered products and the backend systems behind them, from agents and model experimentation to production APIs and cross-platform apps. I take ideas from prototype to shipped product.
+---
 
-- 📍 Islamabad, Pakistan
-- 🤖 Focus: applied ML, LLM agents, backend engineering
-- 🧰 Stack: Python (FastAPI, Django), Go, TypeScript/React, Flutter, PostgreSQL
-- ✉️ [me@awahab.dev](mailto:me@awahab.dev)
+### Core Stack
 
-## Elsewhere
+| Layer | Technologies |
+|---|---|
+| **AI / ML** | PyTorch, Hugging Face, LangChain, A2A , MCP |
+| **Backend** | Python (FastAPI, Django), Go, PostgreSQL, Redis, Docker |
+| **Frontend & Mobile** | TypeScript, React, Next.js, Flutter, Tailwind CSS |
 
-- currently playing xenogears 
+---
 
+### Current Focus
+
+* 🤖 Making human replaceable ( :( ) multi-agent systems 
+* 🛠️ Architecting distributed backends for production AI systems
+* 🎮 Currently stuck on the Babel Tower jumps in *Xenogears*
+
+---
+
+### Connect
+
+[![Email](https://img.shields.io/badge/Email-me%40awahab.dev-blue?style=flat-square&logo=maildotru)](mailto:me@awahab.dev)
+[![Website](https://img.shields.io/badge/Portfolio-awahab.dev-black?style=flat-square&logo=googlechrome)](https://awahab.dev)
 
 <sub>Profile README.</sub>
