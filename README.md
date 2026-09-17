@@ -8,7 +8,7 @@
 # Abdul Wahab
 **AI Engineer & Full-Stack Developer** · Islamabad, PK
 
-> Building AI-powered products and resilient backends—from LLM agents and model pipelines to production APIs and cross-platform clients.
+I build AI systems and get them into production.
 
 ---
 
