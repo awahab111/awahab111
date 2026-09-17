@@ -24,7 +24,7 @@ I build AI systems and get them into production.
 
 ### Current Focus
 
-* 🤖 Making human replaceable ( :( ) multi-agent systems 
+* 🤖 Making human replaceable :( multi-agent systems 
 * 🛠️ Architecting distributed backends for production AI systems
 * 🎮 Currently stuck on the Babel Tower jumps in *Xenogears*
 
